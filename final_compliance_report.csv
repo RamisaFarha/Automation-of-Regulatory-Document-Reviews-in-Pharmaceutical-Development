@@ -1,0 +1,201 @@
+Document_ID,Design_Input,Risk_Assessment,Compliance_Score,Critical_Issues,Last_Reviewed,Risk_Weight,Composite_Score,Compliance_Status
+DOC_1,Valid,Medium,46.19,0.0,2023-01-01,2,36.19,Non-Compliant
+DOC_2,Unknown,High,94.15,0.0,2023-01-02,3,79.15,Partially Compliant
+DOC_3,Invalid,High,70.32,0.0,2023-01-03,3,55.31999999999999,Partially Compliant
+DOC_4,Valid,Low,89.59,0.0,2023-01-04,1,84.59,Compliant
+DOC_5,Valid,Medium,59.2,0.0,2023-01-05,2,49.2,Non-Compliant
+DOC_6,Valid,High,70.821,0.0,2023-01-06,3,55.821,Partially Compliant
+DOC_7,Valid,High,63.35,0.0,2023-01-07,3,48.35,Non-Compliant
+DOC_8,Invalid,Medium,40.65,0.0,2023-01-08,2,30.65,Non-Compliant
+DOC_9,Invalid,High,94.32,1.0,2023-01-09,3,69.32,Partially Compliant
+DOC_10,Invalid,High,45.48,1.0,2023-01-10,3,20.479999999999997,Non-Compliant
+DOC_11,Valid,Medium,59.16,0.0,2023-01-11,2,49.16,Non-Compliant
+DOC_12,Unknown,Medium,97.0,1.0,2023-01-12,2,77.0,Partially Compliant
+DOC_13,Invalid,Medium,97.04,1.0,2023-01-13,2,77.04,Partially Compliant
+DOC_14,Valid,High,74.41,0.0,2023-01-14,3,59.41,Partially Compliant
+DOC_15,Valid,Low,70.821,2.0,2023-01-15,1,45.821,Non-Compliant
+DOC_16,Valid,High,66.91,0.0,2023-01-16,3,51.91,Partially Compliant
+DOC_17,Valid,Medium,57.59,0.0,2023-01-17,2,47.59,Non-Compliant
+DOC_18,Valid,Low,59.72,0.0,2023-01-18,1,54.72,Partially Compliant
+DOC_19,Valid,Medium,80.35,2.0,2023-01-19,2,50.349999999999994,Partially Compliant
+DOC_20,Valid,Low,85.14,1.0,2023-01-20,1,70.14,Compliant
+DOC_21,Invalid,Medium,70.821,0.0,2023-01-21,2,60.821,Partially Compliant
+DOC_22,Valid,Medium,87.38,0.0,2023-01-22,2,77.38,Compliant
+DOC_23,Valid,High,45.47,0.0,2023-01-23,3,30.47,Non-Compliant
+DOC_24,Valid,Medium,69.67,0.0,2023-01-24,2,59.67,Partially Compliant
+DOC_25,Valid,High,43.45,1.0,2023-01-25,3,18.450000000000003,Non-Compliant
+DOC_26,Invalid,High,70.821,0.0,2023-01-26,3,55.821,Partially Compliant
+DOC_27,Valid,Unknown,70.821,0.0,2023-01-27,0,70.821,Compliant
+DOC_28,Valid,Medium,93.26,1.0,2023-01-28,2,73.26,Compliant
+DOC_29,Valid,Low,61.05,0.0,2023-01-29,1,56.05,Partially Compliant
+DOC_30,Valid,Medium,47.02,0.0,2023-01-30,2,37.02,Non-Compliant
+DOC_31,Invalid,Low,48.58,1.0,2023-01-31,1,33.58,Non-Compliant
+DOC_32,Valid,Medium,85.69,2.0,2023-02-01,2,55.69,Partially Compliant
+DOC_33,Valid,Medium,77.09,1.0,2023-02-02,2,57.09,Partially Compliant
+DOC_34,Unknown,Medium,46.07,1.0,2023-02-03,2,26.07,Non-Compliant
+DOC_35,Unknown,High,45.05,0.0,2023-02-04,3,30.049999999999997,Non-Compliant
+DOC_36,Invalid,Low,82.06,0.0,2023-02-05,1,77.06,Partially Compliant
+DOC_37,Valid,High,44.37,1.0,2023-02-06,3,19.369999999999997,Non-Compliant
+DOC_38,Valid,High,89.31,0.0,2023-02-07,3,74.31,Compliant
+DOC_39,Invalid,Medium,70.821,0.0,2023-02-08,2,60.821,Partially Compliant
+DOC_40,Valid,High,44.88,0.0,2023-02-09,3,29.880000000000003,Non-Compliant
+DOC_41,Valid,Unknown,45.09,0.0,2023-02-10,0,45.09,Non-Compliant
+DOC_42,Valid,Unknown,99.2,0.0,2023-02-11,0,99.2,Compliant
+DOC_43,Valid,Unknown,62.46,0.0,2023-02-12,0,62.46,Partially Compliant
+DOC_44,Unknown,Medium,70.821,0.0,2023-02-13,2,60.821,Partially Compliant
+DOC_45,Valid,High,88.77,0.0,2023-02-14,3,73.77,Compliant
+DOC_46,Invalid,Unknown,96.83,2.0,2023-02-15,0,76.83,Partially Compliant
+DOC_47,Valid,Medium,99.16,1.0,2023-02-16,2,79.16,Compliant
+DOC_48,Valid,Unknown,85.2,1.0,2023-02-17,0,75.2,Compliant
+DOC_49,Valid,Unknown,62.58,1.0,2023-02-18,0,52.58,Partially Compliant
+DOC_50,Valid,Low,45.01,0.0,2023-02-19,1,40.01,Non-Compliant
+DOC_51,Unknown,High,86.63,0.0,2023-02-20,3,71.63,Partially Compliant
+DOC_52,Invalid,Medium,73.5,1.0,2023-02-21,2,53.5,Partially Compliant
+DOC_53,Unknown,Low,65.45,1.0,2023-02-22,1,50.45,Partially Compliant
+DOC_54,Invalid,Medium,94.38,1.0,2023-02-23,2,74.38,Partially Compliant
+DOC_55,Valid,High,46.67,0.0,2023-02-24,3,31.67,Non-Compliant
+DOC_56,Unknown,Medium,69.56,0.0,2023-02-25,2,59.56,Partially Compliant
+DOC_57,Valid,Unknown,40.68,0.0,2023-02-26,0,40.68,Non-Compliant
+DOC_58,Valid,Medium,68.12,0.0,2023-02-27,2,58.120000000000005,Partially Compliant
+DOC_59,Valid,Medium,43.38,1.0,2023-02-28,2,23.380000000000003,Non-Compliant
+DOC_60,Valid,High,47.13,1.0,2023-03-01,3,22.130000000000003,Non-Compliant
+DOC_61,Valid,Medium,47.05,0.0,2023-03-02,2,37.05,Non-Compliant
+DOC_62,Valid,Unknown,78.95,0.0,2023-03-03,0,78.95,Compliant
+DOC_63,Invalid,High,84.76,1.0,2023-03-04,3,59.760000000000005,Partially Compliant
+DOC_64,Valid,Medium,70.821,0.0,2023-03-05,2,60.821,Partially Compliant
+DOC_65,Valid,Low,97.73,0.0,2023-03-06,1,92.73,Compliant
+DOC_66,Valid,Low,62.49,0.0,2023-03-07,1,57.49,Partially Compliant
+DOC_67,Valid,Medium,57.14,0.0,2023-03-08,2,47.14,Non-Compliant
+DOC_68,Invalid,Low,92.12,0.0,2023-03-09,1,87.12,Partially Compliant
+DOC_69,Valid,Medium,53.42,0.0,2023-03-10,2,43.42,Non-Compliant
+DOC_70,Unknown,High,97.79,0.0,2023-03-11,3,82.79,Partially Compliant
+DOC_71,Invalid,Low,40.73,0.0,2023-03-12,1,35.73,Non-Compliant
+DOC_72,Valid,Low,98.19,2.0,2023-03-13,1,73.19,Compliant
+DOC_73,Valid,Low,42.59,0.0,2023-03-14,1,37.59,Non-Compliant
+DOC_74,Invalid,Unknown,93.47,1.0,2023-03-15,0,83.47,Partially Compliant
+DOC_75,Invalid,Medium,71.66,0.0,2023-03-16,2,61.66,Partially Compliant
+DOC_76,Invalid,Medium,99.58,0.0,2023-03-17,2,89.58,Partially Compliant
+DOC_77,Invalid,Low,44.43,0.0,2023-03-18,1,39.43,Non-Compliant
+DOC_78,Valid,Medium,73.23,0.0,2023-03-19,2,63.230000000000004,Partially Compliant
+DOC_79,Valid,Low,98.16,0.0,2023-03-20,1,93.16,Compliant
+DOC_80,Valid,Low,71.39,2.0,2023-03-21,1,46.39,Non-Compliant
+DOC_81,Invalid,Low,77.76,2.0,2023-03-22,1,52.760000000000005,Partially Compliant
+DOC_82,Invalid,Medium,81.74,0.0,2023-03-23,2,71.74,Partially Compliant
+DOC_83,Valid,Medium,67.27,0.0,2023-03-24,2,57.269999999999996,Partially Compliant
+DOC_84,Valid,High,77.65,1.0,2023-03-25,3,52.650000000000006,Partially Compliant
+DOC_85,Valid,Medium,70.821,0.0,2023-03-26,2,60.821,Partially Compliant
+DOC_86,Valid,High,94.07,1.0,2023-03-27,3,69.07,Partially Compliant
+DOC_87,Invalid,Medium,42.73,1.0,2023-03-28,2,22.729999999999997,Non-Compliant
+DOC_88,Invalid,Medium,56.86,0.0,2023-03-29,2,46.86,Non-Compliant
+DOC_89,Invalid,High,70.821,1.0,2023-03-30,3,45.821,Non-Compliant
+DOC_90,Valid,Medium,93.42,0.0,2023-03-31,2,83.42,Compliant
+DOC_91,Valid,High,67.34,0.0,2023-04-01,3,52.34,Partially Compliant
+DOC_92,Invalid,High,77.21,0.0,2023-04-02,3,62.209999999999994,Partially Compliant
+DOC_93,Invalid,Low,56.64,1.0,2023-04-03,1,41.64,Non-Compliant
+DOC_94,Valid,Medium,51.29,0.0,2023-04-04,2,41.29,Non-Compliant
+DOC_95,Invalid,High,67.82,0.0,2023-04-05,3,52.81999999999999,Partially Compliant
+DOC_96,Valid,Medium,61.2,1.0,2023-04-06,2,41.2,Non-Compliant
+DOC_97,Valid,Low,75.02,0.0,2023-04-07,1,70.02,Compliant
+DOC_98,Valid,High,70.821,1.0,2023-04-08,3,45.821,Non-Compliant
+DOC_99,Valid,Medium,98.46,0.0,2023-04-09,2,88.46,Compliant
+DOC_100,Valid,High,99.17,0.0,2023-04-10,3,84.17,Compliant
+DOC_101,Valid,High,81.89,1.0,2023-04-11,3,56.89,Partially Compliant
+DOC_102,Invalid,Medium,72.17,0.0,2023-04-12,2,62.17,Partially Compliant
+DOC_103,Valid,Medium,58.57,0.0,2023-04-13,2,48.57,Non-Compliant
+DOC_104,Valid,Medium,88.83,0.0,2023-04-14,2,78.83,Compliant
+DOC_105,Unknown,Low,81.08,0.0,2023-04-15,1,76.08,Partially Compliant
+DOC_106,Valid,Unknown,49.76,0.0,2023-04-16,0,49.76,Non-Compliant
+DOC_107,Valid,Medium,94.66,0.0,2023-04-17,2,84.66,Compliant
+DOC_108,Invalid,Medium,89.35,2.0,2023-04-18,2,59.349999999999994,Partially Compliant
+DOC_109,Valid,Low,96.99,0.0,2023-04-19,1,91.99,Compliant
+DOC_110,Valid,High,83.54,1.0,2023-04-20,3,58.540000000000006,Partially Compliant
+DOC_111,Valid,Medium,76.8,1.0,2023-04-21,2,56.8,Partially Compliant
+DOC_112,Valid,High,65.09,1.0,2023-04-22,3,40.09,Non-Compliant
+DOC_113,Unknown,High,95.96,0.0,2023-04-23,3,80.96,Partially Compliant
+DOC_114,Invalid,Unknown,91.96,0.0,2023-04-24,0,91.96,Partially Compliant
+DOC_115,Invalid,Low,42.71,0.0,2023-04-25,1,37.71,Non-Compliant
+DOC_116,Invalid,Medium,70.821,0.0,2023-04-26,2,60.821,Partially Compliant
+DOC_117,Invalid,Medium,62.59,2.0,2023-04-27,2,32.59,Non-Compliant
+DOC_118,Valid,High,88.63,0.0,2023-04-28,3,73.63,Compliant
+DOC_119,Invalid,High,99.24,0.0,2023-04-29,3,84.24,Partially Compliant
+DOC_120,Valid,High,49.03,1.0,2023-04-30,3,24.03,Non-Compliant
+DOC_121,Invalid,Medium,75.65,0.0,2023-05-01,2,65.65,Partially Compliant
+DOC_122,Invalid,Low,62.85,0.0,2023-05-02,1,57.85,Partially Compliant
+DOC_123,Valid,Medium,98.19,0.0,2023-05-03,2,88.19,Compliant
+DOC_124,Valid,High,70.821,1.0,2023-05-04,3,45.821,Non-Compliant
+DOC_125,Valid,Unknown,90.3,1.0,2023-05-05,0,80.3,Compliant
+DOC_126,Valid,Low,68.12,2.0,2023-05-06,1,43.120000000000005,Non-Compliant
+DOC_127,Invalid,Medium,64.89,0.0,2023-05-07,2,54.89,Partially Compliant
+DOC_128,Invalid,Medium,56.4,1.0,2023-05-08,2,36.4,Non-Compliant
+DOC_129,Valid,Medium,43.38,0.0,2023-05-09,2,33.38,Non-Compliant
+DOC_130,Valid,High,91.88,0.0,2023-05-10,3,76.88,Compliant
+DOC_131,Valid,Medium,88.77,0.0,2023-05-11,2,78.77,Compliant
+DOC_132,Valid,Low,99.98,2.0,2023-05-12,1,74.98,Compliant
+DOC_133,Valid,High,70.821,1.0,2023-05-13,3,45.821,Non-Compliant
+DOC_134,Valid,High,73.33,1.0,2023-05-14,3,48.33,Non-Compliant
+DOC_135,Unknown,High,86.14,0.0,2023-05-15,3,71.14,Partially Compliant
+DOC_136,Valid,High,70.821,2.0,2023-05-16,3,35.821,Non-Compliant
+DOC_137,Valid,Low,90.98,0.0,2023-05-17,1,85.98,Compliant
+DOC_138,Invalid,Low,54.84,2.0,2023-05-18,1,29.840000000000003,Non-Compliant
+DOC_139,Valid,Medium,67.03,0.0,2023-05-19,2,57.03,Partially Compliant
+DOC_140,Unknown,High,47.75,0.0,2023-05-20,3,32.75,Non-Compliant
+DOC_141,Unknown,Medium,97.24,0.0,2023-05-21,2,87.24,Partially Compliant
+DOC_142,Valid,Medium,76.37,0.0,2023-05-22,2,66.37,Partially Compliant
+DOC_143,Valid,High,53.72,1.0,2023-05-23,3,28.72,Non-Compliant
+DOC_144,Valid,Medium,80.3,1.0,2023-05-24,2,60.3,Partially Compliant
+DOC_145,Valid,Medium,77.09,0.0,2023-05-25,2,67.09,Partially Compliant
+DOC_146,Valid,Medium,61.49,2.0,2023-05-26,2,31.490000000000002,Non-Compliant
+DOC_147,Invalid,Medium,70.821,0.0,2023-05-27,2,60.821,Partially Compliant
+DOC_148,Valid,High,80.29,1.0,2023-05-28,3,55.290000000000006,Partially Compliant
+DOC_149,Valid,Medium,71.22,0.0,2023-05-29,2,61.22,Partially Compliant
+DOC_150,Valid,Medium,86.34,1.0,2023-05-30,2,66.34,Partially Compliant
+DOC_151,Unknown,Medium,71.21,0.0,2023-05-31,2,61.209999999999994,Partially Compliant
+DOC_152,Valid,Low,91.13,0.0,2023-06-01,1,86.13,Compliant
+DOC_153,Valid,Medium,73.11,1.0,2023-06-02,2,53.11,Partially Compliant
+DOC_154,Valid,High,73.66,0.0,2023-06-03,3,58.66,Partially Compliant
+DOC_155,Unknown,High,92.6,0.0,2023-06-04,3,77.6,Partially Compliant
+DOC_156,Valid,Medium,64.21,1.0,2023-06-05,2,44.209999999999994,Non-Compliant
+DOC_157,Invalid,High,48.04,1.0,2023-06-06,3,23.04,Non-Compliant
+DOC_158,Invalid,Medium,41.73,1.0,2023-06-07,2,21.729999999999997,Non-Compliant
+DOC_159,Valid,Unknown,70.821,2.0,2023-06-08,0,50.821,Partially Compliant
+DOC_160,Invalid,Medium,77.22,1.0,2023-06-09,2,57.22,Partially Compliant
+DOC_161,Valid,Medium,82.24,0.0,2023-06-10,2,72.24,Compliant
+DOC_162,Invalid,Medium,52.78,0.0,2023-06-11,2,42.78,Non-Compliant
+DOC_163,Invalid,Medium,48.18,0.0,2023-06-12,2,38.18,Non-Compliant
+DOC_164,Valid,Medium,40.87,1.0,2023-06-13,2,20.869999999999997,Non-Compliant
+DOC_165,Valid,Unknown,61.04,0.0,2023-06-14,0,61.04,Partially Compliant
+DOC_166,Invalid,Medium,75.4,1.0,2023-06-15,2,55.400000000000006,Partially Compliant
+DOC_167,Valid,Unknown,63.53,1.0,2023-06-16,0,53.53,Partially Compliant
+DOC_168,Valid,Unknown,66.25,2.0,2023-06-17,0,46.25,Non-Compliant
+DOC_169,Valid,High,94.25,0.0,2023-06-18,3,79.25,Compliant
+DOC_170,Valid,High,60.9,2.0,2023-06-19,3,25.9,Non-Compliant
+DOC_171,Invalid,High,70.84,0.0,2023-06-20,3,55.84,Partially Compliant
+DOC_172,Valid,High,70.821,2.0,2023-06-21,3,35.821,Non-Compliant
+DOC_173,Valid,High,63.79,0.0,2023-06-22,3,48.79,Non-Compliant
+DOC_174,Valid,Medium,77.33,0.0,2023-06-23,2,67.33,Partially Compliant
+DOC_175,Invalid,High,91.74,1.0,2023-06-24,3,66.74,Partially Compliant
+DOC_176,Valid,Medium,96.97,0.0,2023-06-25,2,86.97,Compliant
+DOC_177,Invalid,Low,48.82,0.0,2023-06-26,1,43.82,Non-Compliant
+DOC_178,Valid,High,95.6,1.0,2023-06-27,3,70.6,Compliant
+DOC_179,Unknown,Low,69.53,1.0,2023-06-28,1,54.53,Partially Compliant
+DOC_180,Valid,High,55.49,1.0,2023-06-29,3,30.490000000000002,Non-Compliant
+DOC_181,Valid,High,67.55,1.0,2023-06-30,3,42.55,Non-Compliant
+DOC_182,Valid,Medium,98.8,1.0,2023-07-01,2,78.8,Compliant
+DOC_183,Unknown,Medium,69.56,0.0,2023-07-02,2,59.56,Partially Compliant
+DOC_184,Invalid,Low,59.73,0.0,2023-07-03,1,54.73,Partially Compliant
+DOC_185,Valid,Low,78.0,0.0,2023-07-04,1,73.0,Compliant
+DOC_186,Invalid,Low,54.41,0.0,2023-07-05,1,49.41,Non-Compliant
+DOC_187,Invalid,High,44.55,1.0,2023-07-06,3,19.549999999999997,Non-Compliant
+DOC_188,Valid,High,47.73,0.0,2023-07-07,3,32.73,Non-Compliant
+DOC_189,Valid,Low,47.68,0.0,2023-07-08,1,42.68,Non-Compliant
+DOC_190,Valid,Low,70.821,0.0,2023-07-09,1,65.821,Partially Compliant
+DOC_191,Valid,Unknown,48.33,0.0,2023-07-10,0,48.33,Non-Compliant
+DOC_192,Invalid,Medium,78.45,1.0,2023-07-11,2,58.45,Partially Compliant
+DOC_193,Unknown,Medium,50.91,1.0,2023-07-12,2,30.909999999999997,Non-Compliant
+DOC_194,Invalid,Low,60.74,1.0,2023-07-13,1,45.74,Non-Compliant
+DOC_195,Valid,Medium,93.81,0.0,2023-07-14,2,83.81,Compliant
+DOC_196,Valid,Unknown,70.821,2.0,2023-07-15,0,50.821,Partially Compliant
+DOC_197,Invalid,Low,80.05,0.0,2023-07-16,1,75.05,Partially Compliant
+DOC_198,Invalid,Medium,50.34,1.0,2023-07-17,2,30.340000000000003,Non-Compliant
+DOC_199,Invalid,Low,51.54,1.0,2023-07-18,1,36.54,Non-Compliant
+DOC_200,Invalid,Low,42.45,0.0,2023-07-19,1,37.45,Non-Compliant
